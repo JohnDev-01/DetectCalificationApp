@@ -112,8 +112,8 @@ fun HeaderSection() {
         )
 
         // Nombre y matrícula
-        Text(text = "Nombre: John Doe", fontSize = 16.sp, fontWeight = FontWeight.Bold)
-        Text(text = "Matrícula: 20250001", fontSize = 16.sp)
+        Text(text = "Nombre: John Kerlin Silvestre", fontSize = 16.sp, fontWeight = FontWeight.Bold)
+        Text(text = "Matrícula: 20231192", fontSize = 16.sp)
     }
 }
 
